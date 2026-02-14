@@ -1,5 +1,4 @@
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/crazyappleholic-oss/kanacmd)
-![GitHub all releases](https://img.shields.io/github/downloads/crazyappleholic-oss/kanacmd/total)
+![GitHub release (latest by date)](https://github.com/crazyappleholic-oss/kanacmd/releases/tag/v1.0.0)
 
 ## Download
 最新リリースはこちら → https://github.com/crazyappleholic-oss/kanacmd/releases/latest
