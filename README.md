@@ -1,7 +1,8 @@
 # かなCmd（KanaCmd）
 
 [![Release](https://img.shields.io/github/v/release/crazyappleholic-oss/kanacmd)](https://github.com/crazyappleholic-oss/kanacmd/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/crazyappleholic-oss/kanacmd/total)](https://github.com/crazyappleholic-oss/kanacmd/releases)
+[![Downloads](https://img.shields.io/github/downloads/crazyappleholic-oss/kanacmd/total)](https://github.com/crazyappleholic-oss/kanacmd/releases/download/v1.0.0/Cmd-app.zip)
+
 
 ## Download
 - ✅ 最新版（推奨）：https://github.com/crazyappleholic-oss/kanacmd/releases/latest  
